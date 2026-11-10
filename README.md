@@ -2,6 +2,17 @@
 
 西城戸 亮 著『図解で学ぶ PLCプログラミング入門：ラダーの基本から搬送・位置決め・PID・通信・異常復帰まで』（内容増補版）の教育用教材です。
 
+## 書籍（Amazon）
+
+この教材の本：[『図解で学ぶ PLCプログラミング入門』](https://www.amazon.co.jp/dp/B0HMPS4P4M)（Kindle版・ペーパーバック、Kindle Unlimited対象）
+
+著者の他の本（製造業の技術書）：
+
+- [『現場で使える製造業の画像検査自動化 第2版』](https://www.amazon.co.jp/dp/B0HJYJNHS6)：Python／OpenCVで、照明・判定・検証まで
+- [『ラズパイとPythonでつくる 製造業の画像検査』](https://www.amazon.co.jp/dp/B0HKSGDZF2)：カメラ接続からOK／NG判定、記録・運用まで
+- [『Claude Codeでつくる 製造業の画像検査システム』](https://www.amazon.co.jp/dp/B0HKSG1LWF)：AIに書かせたコードを、テストと実測で確かめる
+- [『Pythonで始める 製造DXの実践』](https://www.amazon.co.jp/dp/B0HL5RK5H9)：現場データの収集・見える化から、管理図・異常検知まで
+
 ## 教材ZIPをダウンロードする
 
 **[教材ZIPをダウンロード（約180 KB）](https://github.com/sunnishi/plc-programming-book-materials/releases/download/v2.1.0/plc_programming_code.zip)**
